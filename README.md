@@ -1,17 +1,16 @@
-#  Admin Dashboard
+# Admin Dashboard
 
 A modern, responsive admin dashboard built with **React.js**, **Vite**, **Tailwind CSS**, and **Recharts**. Features dark mode support, interactive charts, and a clean UI.
 
 ---
 
-##  Live Demo
+## Live Demo
 
-[View Live Demo](https://your-dashboard-url.com)
+[View Live Demo](https://dash-board-110.vercel.app/)
 
 ---
 
-
-##  Features
+## Features
 
 - **Dark/Light Mode** - Toggle between themes with smooth transitions
 - **Interactive Charts** - Bar and Line charts with hover effects
@@ -28,14 +27,14 @@ A modern, responsive admin dashboard built with **React.js**, **Vite**, **Tailwi
 
 ## Tech Stack
 
-| Technology | Description |
-|------------|-------------|
-| **React 18** | UI Framework |
-| **Vite** | Build Tool |
-| **Tailwind CSS** | Styling |
-| **React Router** | Routing |
-| **React Icons** | Icons |
-| **Recharts** | Charts |
-| **Context API** | State Management (Theme) |
+| Technology       | Description              |
+| ---------------- | ------------------------ |
+| **React 18**     | UI Framework             |
+| **Vite**         | Build Tool               |
+| **Tailwind CSS** | Styling                  |
+| **React Router** | Routing                  |
+| **React Icons**  | Icons                    |
+| **Recharts**     | Charts                   |
+| **Context API**  | State Management (Theme) |
 
 ---
